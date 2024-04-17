@@ -1,0 +1,1 @@
+ALTER TABLE Usuario CHANGE email correo_electronico VARCHAR(255) NOT NULL;
